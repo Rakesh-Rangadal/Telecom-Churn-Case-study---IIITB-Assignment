@@ -1,4 +1,4 @@
-# Telecom-Churn-Case-study - IIITB-Assignment [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+# Telecom-Churn-Case-study - IIITB-Assignment 
 
 
 ## Problem Statement
